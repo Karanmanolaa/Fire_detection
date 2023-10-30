@@ -1,6 +1,7 @@
 # Project 4 - Fire_detection
 
-![fire images detection](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/5c609984-3c1e-4ddb-a03f-596b38a26bf5)
+![fire images detection (1)](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/df224b7a-2b2c-4073-b1b7-80e4ea0a1060)
+
 
 
 # Table of Content
