@@ -31,26 +31,31 @@ In this project i have used python programming language and its libraries - scik
 
 # 5 - Visualizations:
 
-  
+### Distribution of Labels
+
 ![download](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/14cf2435-5f65-4fa4-aefb-2042ed2e6644)
 
+### Sample images with Fire
 ![download (1)](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/d6aa6e83-8659-4e21-9093-d2facf8083fd)
 
 
+### Sample images without Fire
 ![download (2)](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/363d43f9-18a6-44b1-b63d-b8dc53a6f013)
 
 
+### Distribution of Image Height and width
 ![download (3)](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/21d0e930-914b-40fc-a872-f98da0bf7dbd)
 
 
+### Images Generated with Data Augmentation
 ![download (4)](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/150fe914-6dfc-44af-921f-960b034194a7)
 
-# Below is of CNN
+### Visualization of Loss and Accuracy of a CNN model 
 ![download (5)](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/f8a6108f-72bb-4f8b-8cba-50ef0b5f1dc1)
 
 
 
-# Below is of resnet50
+### Visualization of Loss and Accuracy of model trained with resnet50
 
 ![download (6)](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/8f783c2c-eda2-427f-9e74-567f7f5e8a51)
 
