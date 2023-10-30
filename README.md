@@ -4,8 +4,9 @@
 - Overview
 - Problem Statement and Motivation
 - Technical Aspects
-- Visualizations
 - Challenges and Solutions
+- Visualizations
+
 
 # 1- Overview :
 The Fire Detection project focuses on building a deep learning model that can automatically detect fires in images. The dataset includes 755 fire and 
