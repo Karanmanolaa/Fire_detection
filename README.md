@@ -1,10 +1,5 @@
 # Project 4 - Fire_detection
 
-![fire images detection (2)](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/eb7a5daa-b18c-4e3f-a559-9dbc4bc784fc)
-
-
-
-
 # Table of Content
 - Overview
 - Problem Statement and Motivation
@@ -12,6 +7,7 @@
 - Challenges and Solutions
 - Visualizations
 
+![fire images detection (2)](https://github.com/Karanmanolaa/Fire_detection/assets/144649975/eb7a5daa-b18c-4e3f-a559-9dbc4bc784fc)
 
 # 1- Overview :
 The Fire Detection project focuses on building a deep learning model that can automatically detect fires in images. The dataset includes 755 fire and 
